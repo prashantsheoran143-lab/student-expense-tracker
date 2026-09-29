@@ -1,0 +1,14 @@
+STUDENT EXPENSE TRACKER - how to run it
+========================================
+
+1. Make sure Python 3 is installed.
+2. Open a terminal (or Command Prompt) inside this folder.
+3. Start the program:
+
+   python expense_tracker.py
+
+To run the tests:
+
+   python -m unittest discover -s tests -v
+
+You don't need to install anything else.
